@@ -6,3 +6,6 @@ https://www.pluralsight.com/
 
 (downloadsYoutube Videos)
 https://savefrom.net/
+
+(CSS Tutorials)
+https://tailwind.academy/courses/tailwindcss-basics/concepts/tailwindcss-basics2/include-tailwind-in-your-css
