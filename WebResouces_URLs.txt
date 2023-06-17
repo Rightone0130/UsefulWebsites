@@ -9,3 +9,7 @@ https://savefrom.net/
 
 (CSS Tutorials)
 https://tailwind.academy/courses/tailwindcss-basics/concepts/tailwindcss-basics2/include-tailwind-in-your-css
+
+
+(My Personal Weblink)
+https://poetic-brioche-e4a427.netlify.app/ 
