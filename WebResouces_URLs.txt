@@ -32,4 +32,6 @@ https://rightone0130.github.io/pricing/
 
 (C# Website)
 
-ERD designer;- https://drawsql.app/diagrams
+ERD{Entity-Relationship Diagram} designer;- https://drawsql.app/diagrams
+
+https://www.connectionstrings.com/
