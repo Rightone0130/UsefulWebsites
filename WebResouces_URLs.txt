@@ -15,7 +15,7 @@ https://tailwind.academy/courses/tailwindcss-basics/concepts/tailwindcss-basics2
 (My Personal Weblink)
 
 rest-countries;-
-https://eclectic-speculoos-197cd2.netlify.app/
+https://eclectic-speculoos-197cd2.netlify.app/ changed
 (https://648dbd96c41d510b9e59bbfc--eclectic-speculoos-197cd2.netlify.app/)
 
 job-listing;-
